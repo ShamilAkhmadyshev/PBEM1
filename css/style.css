@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------*/
 body {
   width: 821px;
-  padding-top: 15000px;
+  padding-top: 150px;
   max-width: 821px;
   margin: 0 auto;
   background-color: #e8e8e8;
@@ -109,7 +109,7 @@ body {
 }
 
 .img {
-  outline: 10px solid white;
+  outline: 10px solid blue;
   margin-bottom: 100px;
   -webkit-box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
           box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
